@@ -10,7 +10,7 @@ bidmachine.io, 1588, DIRECT
 
 #AdMob
 
-google.com, pub-3306027411211132, DIRECT, f08c47fec0942fa0
+#google.com, pub-3306027411211132, DIRECT, f08c47fec0942fa0
 
 #Resellers
 
